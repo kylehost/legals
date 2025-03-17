@@ -1,7 +1,3 @@
-Certainly! An End User License Agreement (EULA) is a legal document that outlines the terms under which a user can use your software or service. Below is a sample EULA tailored for Kyle's Hosting Service. Please note that this is a general template and should be reviewed by a legal professional to ensure it meets your specific needs and complies with applicable laws.
-
----
-
 **End User License Agreement (EULA) for Kyle's Hosting Service**  
 *Effective Date: March 17, 2025*
 

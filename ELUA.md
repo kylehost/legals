@@ -40,7 +40,7 @@ This EULA shall be governed by and construed in accordance with the laws of the 
 Kyle's Hosting Service reserves the right to modify this EULA at any time. Any changes will be effective immediately upon posting the revised EULA on our website. Your continued use of the Service after any changes indicates your acceptance of the new terms.
 
 **11. Contact Information**  
-For any questions or concerns regarding this EULA, please contact us at support@kyleshosting.com.
+For any questions or concerns regarding this EULA, please contact us at support@kyle-hosting.xyz
 
 ---
 

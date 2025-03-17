@@ -1,5 +1,5 @@
 **Fair Use Policy for Kyle's Hosting Service**  
-*Effective Date: March 17, 2025*
+_*Effective Date: March 17, 2025*_
 
 At Kyle's Hosting Service, we are committed to providing a reliable and equitable hosting environment for all users. This Fair Use Policy outlines the acceptable use of our services to ensure that all customers can enjoy a high-quality experience.
 

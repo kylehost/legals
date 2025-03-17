@@ -30,9 +30,9 @@ At Kyle's Hosting Service, we are committed to providing a reliable and equitabl
 - Users should implement security best practices, such as using strong passwords and enabling two-factor authentication, to protect their accounts.
 
 ### 6. Reporting Violations
-- Users are encouraged to report any suspected violations of this Fair Use Policy to our support team at support@kyleshosting.com. We take all reports seriously and will investigate any claims of abuse.
+- Users are encouraged to report any suspected violations of this Fair Use Policy to our support team at support@kyle-hosting.xyz . We take all reports seriously and will investigate any claims of abuse.
 
 ### 7. Amendments
 - This Fair Use Policy may be updated periodically. Continued use of our services after changes indicates acceptance of the new terms.
 
-For any questions or concerns regarding this Fair Use Policy, please contact us at support@kyleshosting.com. Thank you for choosing Kyle's Hosting Service!
+For any questions or concerns regarding this Fair Use Policy, please contact us at support@kyle-hosting.xyz. Thank you for choosing Kyle's Hosting Service!

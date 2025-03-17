@@ -34,7 +34,7 @@ To the maximum extent permitted by law, Kyle's Hosting Service shall not be liab
 You agree to indemnify, defend, and hold harmless Kyle's Hosting Service, its affiliates, and their respective officers, directors, employees, and agents from any claims, losses, liabilities, damages, costs, or expenses (including reasonable attorneys' fees) arising out of or related to your use of the Service or violation of this EULA.
 
 **9. Governing Law**  
-This EULA shall be governed by and construed in accordance with the laws of the United Kingdom, without regard to its conflict of law principles.
+This EULA shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law principles.
 
 **10. Amendments**  
 Kyle's Hosting Service reserves the right to modify this EULA at any time. Any changes will be effective immediately upon posting the revised EULA on our website. Your continued use of the Service after any changes indicates your acceptance of the new terms.

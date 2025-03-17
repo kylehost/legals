@@ -40,7 +40,7 @@ Welcome to Kyle's Hosting Service. By using our services, you agree to the follo
 - Continued use of our services after changes indicates acceptance of the new terms.
 
 **9. Contact Us**  
-For assistance, please email support@kyle-hosting.com.
+For assistance, please email support@kyle-hosting.xyz.
 
 **10. Governing Law**  
 These terms are governed by the laws of the United States of America.
